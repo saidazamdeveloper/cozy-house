@@ -1,0 +1,181 @@
+body{
+    background-color: #F6F6F6;
+}
+.head{
+    background-color: #262425;
+    height: 908px;
+    display: flex;
+    padding: 40px;
+}
+.dog{
+    padding-top: 112px;
+    padding-left: 129px;
+}
+.navbar{
+    display: flex;
+}
+.menu{
+    display: flex;
+    gap: 25px;
+    padding-left: 700px;
+    padding-top: 50px;
+}
+.three{
+    display: flex;
+}
+.not{
+    max-width: 400px;
+    font-size: 44px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 223px;
+}
+.offer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #FFFFFF;
+    max-width: 470px;
+}
+.sect{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+.aboutshelter{
+    display: flex;
+}
+
+.currentcozy{
+    padding-left: 200px;
+}
+.cozyabout{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+    max-width: 350px;
+}
+.current{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    max-width: 425px;
+    line-height: 24px;
+}
+.friend{
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #545454;
+}
+.are{
+    margin-top: -20px;
+}
+.sale{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.katrine{
+    background-color: #FAFAFA;
+    width: 270px;
+    height: 435px;
+    text-align: center;
+    border-radius: 9px;
+}
+.kat{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center; 
+    color: #545454;
+}
+.rest{
+    display: flex;
+    justify-content: center;
+}   
+.help{
+    font-size: 35px;
+}
+.firstrow{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #545454;
+}
+.secondrow{
+    margin-top: 50px;
+}
+.sec_end{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.donation{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    max-width: 270px;
+    color: #545454;
+}
+.name{
+    color: #545454;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lorem{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 12px;
+    font-style: italic;
+    color: #b2b2b2;
+    max-width: 370px;
+    margin-top: 20px;
+}
+.secfour{
+    margin-bottom: 100px;
+}
+.foter{
+    background-color: #1A1A1C;
+    padding: 40px;
+}
+.fchild{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    position: relative;
+}
+.for{
+    color: #FFFFFF;
+    max-width: 250px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+.mail{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    display: flex;
+    gap: 10px;
+    color: #F1CDB3;
+}
+.center{
+    max-width: 250px;
+}
+.fpuppy{
+    position: absolute;
+    top: 27px;
+    left: 1100px;
+}
